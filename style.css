@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.calculator {
+    display: inline-block;
+    background-color: #17181A;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+button {
+    font-size: 2rem;
+    width: 100px;
+    height: 80px;
+    border-radius: 20px;
+    margin: 5px;
+    color: white;
+    background-color: #515151;
+}
+
+.btn {
+    width: 210px;
+}
+
+input {
+    width: 434px;
+    height: 80px;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    text-align: right;
+}
